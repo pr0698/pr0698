@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left">
-  <img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1725733579~exp=1725734179~hmac=69554c3be9d39c027c820feb15b13adfe435f82a9ffe07ec704e0d0eb423f267&color=0e75b6&style=flat" alt="pr0698" width="900" height="400" />
-</p>
+  <img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1725733579~exp=1725734179~hmac=69554c3be9d39c027c820feb15b13adfe435f82a9ffe07ec704e0d0eb423f267&color=0e75b6&style=flat" alt="pr0698
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
